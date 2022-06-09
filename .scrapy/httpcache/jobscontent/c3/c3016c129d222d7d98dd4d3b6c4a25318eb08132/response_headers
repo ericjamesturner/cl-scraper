@@ -1,0 +1,10 @@
+Last-Modified: Thu, 09 Jun 2022 19:30:24 GMT
+Cache-Control: max-age=900, public
+Date: Thu, 09 Jun 2022 19:30:24 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: base-uri 'self'; child-src https://*.craigslist.org; connect-src https://*.craigslist.org; font-src data:; form-action https://*.craigslist.org; frame-ancestors 'self'; frame-src https://*.craigslist.org; media-src data:; object-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' https://*.craigslist.org; style-src 'unsafe-inline' https://*.craigslist.org
+Expires: Thu, 09 Jun 2022 19:45:24 GMT
+Strict-Transport-Security: max-age=63072000
